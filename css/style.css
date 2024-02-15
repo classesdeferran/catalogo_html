@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+* {
+    margin : 0;
+    font-family: "Lato", "Arial", sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: "Anton", "Verdana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    background-color: dimgray;
+}
+
+/* p {
+    text-align: center;
+    color: #fff;
+} */
+
+#copyright {
+    font-size: 24px ;
+}
+
+span {
+    color: red;
+}
+
+code {
+    padding: 10px;
+    background-color: rgb(233 150 122 / 50%);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.etiqueta {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    background-color: rgb(233 150 122 / 50%);
+}
+
+dd {
+    padding-left: 40px;
+}
